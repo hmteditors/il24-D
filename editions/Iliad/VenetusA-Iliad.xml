@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="../css/tei-scholia.css"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
@@ -11,7 +11,9 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
     <fileDesc>
       <titleStmt>
         <title>Iliad</title>
-        <editor>YOUR NAME HERE</editor>
+        <editor>Emmett Baumgarten</editor>
+        <editor>Gaelin Helfer</editor>
+        <editor>Grecia Leal</editor>
 
       </titleStmt>
       <publicationStmt>
@@ -25,7 +27,22 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
   <text>
     <body>
       <div n="24">
-        <l n="1">λῦτο δ᾽ ἀγών, λαοὶ δὲ θοὰς ἐπὶ νῆας ἕκαστοι</l>
+        <l n="80">ἡ δὲ μολυβδαίνῃ ἱκέλη ἐς βυσσὸν ὄρουσεν·</l>
+        <l n="81">ἥ τε κατ' ἀγραύλοιο βοὸς κέρας ἐμβεβαυῖα</l>
+        <l n="82">ἔρχεται. ὠμηστῇσιν ἐπ' ἰ̈χθύσι κῆρα φέρουσα·</l>
+        <l n="83">εὗρε δ' ἐνι σπῆϊ γλαφυρῷ <persName n="urn:cite:hmt:pers.pers19">Θέτιν</persName>, ἀμφι δ' ὰρ ἄλλαι</l>
+        <l n="84">εἵαθ' ὁμηγερέες ἅλιαι θεαὶ. ἡ δ' ἐνι μέσσῃς</l>
+        <l n="85">κλαῖε μόρον οὗ παιδὸς ἀμύμονος. ὅς οἱ ἔμελλε</l>
+        <l n="86">φθίσεσθ' ἐν <placeName n="urn:cite:hmt:place.place6">Τροίῃ</placeName> ἐριβώλακι τηλόθι πάτρης·</l>
+        <l n="87">ἀγχοῦ δ' ἱσταμένη προσέφη. πόδας ὠκέα <persName n="urn:cite:hmt:pers.pers282">Ἶ̈ρις</persName>·</l>
+        <l n="88">ὄρσο <persName n="urn:cite:hmt:pers.pers19">Θέτι</persName>· καλέει <persName n="urn:cite:hmt:pers.pers8">Ζεὺς</persName>. ἄφθιτα μήδεα εἰδώς·</l>
+        <l n="89">τὴν δ' ἠμείβετ' ἔπειτα θεὰ <persName n="urn:cite:hmt:pers.pers19">Θέτις</persName> ἀργυρόπεζα·</l>
+        <l n="90">τίπτέ με κεῖνος ἄνωγε μέγας θεός· αἰδέομαι δὲ</l>
+        <l n="91">μίσγεσθ' ἀθανάτοισιν· ἔχω δ' ἄχε' ἄκριτα θυμῷ·</l>
+        <l n="92">εῖμι μὲν, οὐδ' άλιον ἔπος ἔσσεται ὅττί κεν εἴπῃ·</l>
+        <l n="93">ὡς ἄρα φωνήσασα κάλυμμ' ἕλε δῖα θεάων</l>
+        <l n="94">κυάνεον. τοῦ δ' οὔ τι μελάντερον ἔπλετο ἔσθος.</l>
+        <l n="95">βῆ δ' ϊέναι. πρόσθεν δὲ ποδήνεμος ὠκέα <persName n="urn:cite:hmt:pers.pers282">ῗρις</persName></l>
       </div>
     </body>
   </text>
