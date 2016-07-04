@@ -139,29 +139,39 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                             <p>urn:cts:greekLit:tlg0012.tlg001.msA:24.97</p>
                         </div>
                         <div type="comment">
-                            <p></p>
+                            <p>προσ τα <choice><abbr>πε</abbr><expan>περὶ</expan></choice> τοῦ 
+                            <placeName n="urn:cite:hmt:place.place45">Ὀλύμπου</placeName> 
+                            <choice><abbr>ουνον</abbr><expan>ουρανον</expan></choice> γὰρ νῦν ειπὼν ὑποβὰς φησὶν 
+                            <cit><ref type="urn">urn:cts:greekLit:tlg0012.tlg001:24.104</ref><q>ήλυθες <placeName n="urn:cite:hmt:place.place45">Οὔλυμπον</placeName> δὲ</q></cit>, 
+παρ ὅσον ἐπουνια τινα μέρη εστι 
+τοῦ <placeName n="urn:cite:hmt:place.place45"><choice><abbr>Ολυμπ</abbr><expan>Ὀλύμπου</expan></choice></placeName> ὑπερ ταν έφη διήκοντα ⁑</p>
                         </div>
                     </div>
-                    <div n="1" type="scholion">
+                    <div n="312v9" type="scholion">
                         <div type="lemma">
-                            <p></p>
+                            <p>ἡ δ' ἄρα παρ' <persName n="urn:cite:hmt:pers.pers8">Διῒ</persName>:</p>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:24.??</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:24.100</p>
                         </div>
                         <div type="comment">
-                            <p></p>
+                            <p>προς τὴν καθέδραν <persName n="urn:cite:hmt:pers.pers67">Αθηνᾶς</persName> και <persName n="urn:cite:hmt:pers.pers116">Ἡρας</persName> ὅτι 
+ἑκατέρωθεν τοῦ <persName n="urn:cite:hmt:pers.pers8">Διός</persName> · καὶ ὅταν λέγῃ 
+<cite><ref type="urn">urn:cts:greekLit:tlg0012.tlg001:8.444</ref><q>αἱ δοῖαι <persName n="urn:cite:hmt:pers.pers8">Διὸς</persName> ἀμφὶς</q></cite> 
+τὸ αυτο σημαίνει <persName n="urn:cite:hmt:pers.pers8">Διὸς</persName> ἐκατέρωθεν οὐχ ὥς τινες δέχονται χωρὶς, ἀλλα μόνον καθ ἑαυτὰς ἐχουσαι τὰς γνώμας ⁑</p>
                         </div>
                     </div>
-                    <div n="1" type="scholion">
+                    <div n="312v10" type="scholion">
                         <div type="lemma">
-                            <p></p>
+                            <p>ἤλυθες <placeName n="urn:cite:hmt:place.place45">Οὔλυμπον</placeName> δὲ:</p>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:24.??</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msA:24.104</p>
                         </div>
                         <div type="comment">
-                            <p></p>
+                            <p>ὅτι ἄνω εῖπεν εἰς οὐρανὸν ἀϊχθήτην. νύν δὲ εἰς 
+<placeName n="urn:cite:hmt:place.place45">Ὀλυμπον</placeName> παραγεγονέναι. αἱ γὰρ κορυφαὶ τοῦ <placeName n="urn:cite:hmt:place.place45">Ὀλύμπου</placeName> 
+<choice><abbr>ἐπουνιοι</abbr><expan>ἐπουράνιοι</expan></choice> ⁑</p>
                         </div>
                     </div>
                 </body>
